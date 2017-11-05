@@ -1,0 +1,33 @@
+@media (min-width: 320px) {
+  .body-background {
+    background-image: url("../pictures/sunset-background.jpg");
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+  }
+}
+
+.body-background {
+  background-image: url("../pictures/sunset-background.jpg");
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.happyV {
+  font-weight: bold;
+  color: red;
+font-family: 'Lobster', cursive;
+}
+.main-text {
+  color: pink;
+  font-size: 25px;
+  font-family: 'Pacifico', cursive;
+}
+.text-links {
+  font-weight: bold;
+  font-size: 20px;
+  color: red;
+  font-family: 'Indie Flower', cursive;
+}
