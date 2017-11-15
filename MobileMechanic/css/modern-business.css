@@ -19,6 +19,7 @@ body {
 
 .changecolor {
   background-color: rgb(28, 150, 184);
+  margin-left: 10px;
 }
 
 .textcolor {
